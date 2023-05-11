@@ -4,8 +4,6 @@
 + pytorch==1.3.0
 + torch_geometric==1.3.2
 
-> We will release the source code.
-
 ## Train steps
 
 ### Pre-train
