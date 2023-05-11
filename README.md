@@ -1,6 +1,8 @@
 # CRFR
 > The implementation of our paper accepted by EMNLP 2021: [**CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs**](https://aclanthology.org/2021.emnlp-main.355/)
 
+> The code and data are developed based on KGSF. Due to time reasons, it has not been transformed into a standardized code framework, so it seems that the code is bad.
+
 <img src="https://img.shields.io/badge/Venue-EMNLP--21-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Last%20Updated-2021-2D333B" alt="update"/>
 
 ## Environment
