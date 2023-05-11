@@ -1,5 +1,5 @@
 # CRFR
-> > The implementation of our paper accepted by EMNLP 2021: [**CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs**](https://aclanthology.org/2021.emnlp-main.355/)
+> The implementation of our paper accepted by EMNLP 2021: [**CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs**](https://aclanthology.org/2021.emnlp-main.355/)
 
 <img src="https://img.shields.io/badge/Venue-EMNLP--21-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Last%20Updated-2021-2D333B" alt="update"/>
 
